@@ -36,7 +36,7 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-git clone https://github.com/agnelglanto/pazhamvazhi.git
+git clone https://github.com/agnelglanto/pazham-vazhiii
 cd pazhamvazhi/bananameter
 npm install
 
