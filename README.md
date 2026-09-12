@@ -2,64 +2,67 @@
 
 
 
-# [Project Name] 🎯
+# Pazham-Vazhi 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: loondry
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Adhyasree P S - Christ College of Engineering,Irinjalakuda
+- Member 2: Agnel Glanto - Christ College of Engineering,Irinjalakuda
 
 ### Project Description
-[2-3 lines about what your project does]
+Pazham Vazhi — measure real-world distance between any two places in bananas. Pick your banana, calculate, get a banana count, distance in km, and a fun equivalence (elephants, Eiffel Towers, football fields). Built with Express + Leaflet + OSRM, deployed on Vercel.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+No one knows how many bananas it takes to reach the destination
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Our webapp does it for you.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used: JavaScript (Node.js), HTML5, CSS3
+- Frameworks used: Express.js
+- Libraries used: Leaflet.js (maps), Google Fonts (Fredoka)
+- Tools used: OpenStreetMap Nominatim (geocoding), OSRM (routing/distance), Vercel (deployment), Git/GitHub
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- No hardware used — pure web app
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/agnelglanto/pazhamvazhi.git
+cd pazhamvazhi/bananameter
+npm install
 
 # Run
-[commands]
+npm start
+# visit http://localhost:3000
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/36f26d3c-94c9-42e5-81ae-19ce62d6f627" />
+landing page
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d707adf4-b9de-42ef-9c37-8b29aa9de06d" />
+Website in action
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/dae9d832-a15c-45c0-9f3d-07ce6163b25f" />
+shows the result
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="722" height="442" alt="image" src="https://github.com/user-attachments/assets/07c1be5e-99e0-42ea-ae12-91bde9a1453d" />
+
 
 For Hardware:
 
@@ -89,9 +92,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Adhyasree P S: ui/ux
+- Agnel Glanto: Logic with leaflet + OSM
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
